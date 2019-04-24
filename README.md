@@ -14,7 +14,7 @@ the way to do:
 
 - . build/envsetup.sh
 
-- lunch omni_MAX-eng
+- lunch omni_DINOSAUR-eng
 
 - make -j# recoveryimage [# : no. of cpu core]
 ```
